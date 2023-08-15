@@ -1,0 +1,113 @@
+Solve Maze:
+Layer 1
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+Layer 2
+ X X X X X X _ X _ _ X X X X X X _ X _ _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+Layer 3
+ X X X X X _ X X X X X X X X X _ X X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ X _ X _ X X X X X X X _ X _ X X X X X X
+ X _ X X X X X X X X X _ X X X X X X X X
+ X _ _ _ X X X X X X X _ _ _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X _ X _ X X X X X X X _ X _ X X X X X X
+ X _ X X X X X X X X X _ X X X X X X X X
+Layer 4
+ _ _ _ X X X X X X X _ _ _ X X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+Layer 5
+ X X X X X _ X X X X X X X X X _ X X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+Layer 6
+ X X _ X X _ X X X X X X _ X X _ X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+Layer 7
+ _ _ _ _ _ _ X X _ _ _ _ _ _ _ _ X X _ _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+ _ _ _ _ _ _ _ X X _ _ _ _ _ _ _ _ X X _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+Layer 8
+ X X X X X X _ X _ _ X X X X X X _ X _ _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+Layer 9
+ X X X X X _ X X X X X X X X X _ X X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+Layer 10
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X _
+ X X X X X X X X X X X X X X X _ _ _ _ _
+ _ X X X X X X X X _ _ X X X X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+
+No Solution Exists!

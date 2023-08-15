@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Lab_02_SNAP.dir/main.cpp.o -o Lab_02_SNAP 

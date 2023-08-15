@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lab_00_Hello_World.dir/hello.cpp.o  -o Lab_00_Hello_World 

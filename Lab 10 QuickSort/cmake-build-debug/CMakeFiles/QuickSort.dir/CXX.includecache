@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nielsturley/CLionProjects/QuickSort/QS.h
+QSInterface.h
+/Users/nielsturley/CLionProjects/QuickSort/QSInterface.h
+
+/Users/nielsturley/CLionProjects/QuickSort/QSInterface.h
+string
+-
+
+/Users/nielsturley/CLionProjects/QuickSort/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+QS.h
+/Users/nielsturley/CLionProjects/QuickSort/QS.h
+

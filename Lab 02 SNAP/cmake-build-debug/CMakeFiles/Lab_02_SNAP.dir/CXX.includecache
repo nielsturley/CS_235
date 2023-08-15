@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Cdh.h
+
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/CourseName.h
+
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Cr.h
+
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Csg.h
+
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Snap.h
+
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/StudentID.h
+string
+-
+
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+string
+-
+StudentID.h
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/StudentID.h
+CourseName.h
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/CourseName.h
+Snap.h
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Snap.h
+Csg.h
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Csg.h
+Cdh.h
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Cdh.h
+Cr.h
+/Users/nielsturley/CLionProjects/Lab 02 SNAP/Cr.h
+

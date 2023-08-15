@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/BST.h
+Stack.h
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/Stack.h
+
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/Deque.h
+
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/Stack.h
+Deque.h
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/Deque.h
+
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+BST.h
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/BST.h
+

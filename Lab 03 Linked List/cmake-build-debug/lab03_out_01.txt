@@ -1,0 +1,10 @@
+Insert The quick brown fox jumped over the lazy dog.
+PrintList dog. lazy the over jumped fox brown quick The 
+Clear OK
+PrintList Empty!
+Append Hey there you person tell me if this is working
+PrintList Hey there you person tell me if this is working 
+Drop OK
+Drop OK
+Drop OK
+PrintList Hey there you person tell me if 

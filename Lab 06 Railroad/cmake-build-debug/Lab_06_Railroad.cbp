@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab_06_Railroad"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nielsturley/CLionProjects/Lab 06 Railroad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nielsturley/CLionProjects/Lab 06 Railroad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nielsturley/CLionProjects/Lab 06 Railroad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_06_Railroad">
+				<Option output="/Users/nielsturley/CLionProjects/Lab 06 Railroad/cmake-build-debug/Lab_06_Railroad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nielsturley/CLionProjects/Lab 06 Railroad/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab_06_Railroad"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab_06_Railroad/fast">
+				<Option output="/Users/nielsturley/CLionProjects/Lab 06 Railroad/cmake-build-debug/Lab_06_Railroad" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nielsturley/CLionProjects/Lab 06 Railroad/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab_06_Railroad/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Lab\ 06\ Railroad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/Car.h">
+			<Option target="Lab_06_Railroad"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/Deque.h">
+			<Option target="Lab_06_Railroad"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/Queue.h">
+			<Option target="Lab_06_Railroad"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/Stack.h">
+			<Option target="Lab_06_Railroad"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/Station.h">
+			<Option target="Lab_06_Railroad"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/Vector.h">
+			<Option target="Lab_06_Railroad"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/main.cpp">
+			<Option target="Lab_06_Railroad"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Lab 06 Railroad/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

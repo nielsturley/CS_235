@@ -1,0 +1,31 @@
+Add:station 2
+Add:queue
+Add:station 1
+Add:queue
+Top:queue
+Remove:queue
+Remove:station
+Queue
+Size:queue
+Train
+Remove:queue
+Remove:station
+Queue
+Size:queue
+Train
+Add:station 4
+Add:queue
+Add:station 3
+Add:queue
+Top:queue
+Remove:queue
+Remove:station
+Queue
+Size:queue
+Train
+Remove:queue
+Remove:station
+Add:queue
+Queue
+Size:queue
+Train

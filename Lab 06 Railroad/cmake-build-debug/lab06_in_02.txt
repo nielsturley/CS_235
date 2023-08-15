@@ -1,0 +1,31 @@
+Add:station 2
+Add:stack
+Add:station 1
+Add:stack
+Top:stack
+Remove:stack
+Remove:station
+Stack
+Size:stack
+Train
+Remove:stack
+Remove:station
+Stack
+Size:stack
+Train
+Add:station 4
+Add:stack
+Add:station 3
+Add:stack
+Top:stack
+Remove:stack
+Remove:station
+Stack
+Size:stack
+Train
+Remove:stack
+Remove:station
+Add:stack
+Stack
+Size:stack
+Train

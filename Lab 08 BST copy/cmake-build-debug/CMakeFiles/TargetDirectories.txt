@@ -1,0 +1,3 @@
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nielsturley/CLionProjects/Lab 08 BST copy/cmake-build-debug/CMakeFiles/Lab_08_BST.dir

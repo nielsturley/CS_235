@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Car.h
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Deque.h
+DequeInterface.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/DequeInterface.h
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/DequeInterface.h
+string
+-
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Queue.h
+Deque.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Deque.h
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Stack.h
+Deque.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Deque.h
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Station.h
+Queue.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Queue.h
+Stack.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Stack.h
+Vector.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Vector.h
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Vector.h
+Deque.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Deque.h
+
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+Car.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Car.h
+Station.h
+/Users/nielsturley/CLionProjects/Lab 06 Railroad/Station.h
+

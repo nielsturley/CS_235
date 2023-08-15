@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nielsturley/CLionProjects/Lab 07 3DMaze/Maze.cpp
+Maze.h
+/Users/nielsturley/CLionProjects/Lab 07 3DMaze/Maze.h
+string
+-
+iomanip
+-
+sstream
+-
+
+/Users/nielsturley/CLionProjects/Lab 07 3DMaze/Maze.h
+MazeInterface.h
+/Users/nielsturley/CLionProjects/Lab 07 3DMaze/MazeInterface.h
+
+/Users/nielsturley/CLionProjects/Lab 07 3DMaze/MazeInterface.h
+string
+-
+
